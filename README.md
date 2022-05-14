@@ -1,14 +1,4 @@
-
-> Open this page at [https://karmalikesaxolotls.github.io/microrps/](https://karmalikesaxolotls.github.io/microrps/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/karmalikesaxolotls/microrps** and import
+## A simple Rock Paper Scissors game for micro:bit (degisned for v2) that i made when i was bored on 
 
 ## Edit this project ![Build status badge](https://github.com/karmalikesaxolotls/microrps/workflows/MakeCode/badge.svg)
 
@@ -18,10 +8,7 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/karmalikesaxolotls/microrps** and click import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+## Preview (blocks)
 
 ![A rendered view of the blocks](https://github.com/karmalikesaxolotls/microrps/raw/master/.github/makecode/blocks.png)
 
