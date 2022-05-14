@@ -1,4 +1,4 @@
-## A simple Rock Paper Scissors game for micro:bit (degisned for v2) that i made when i was bored on 
+## A simple Rock Paper Scissors game for micro:bit (degisned for v2) that i made when i was bored
 
 ## Edit this project ![Build status badge](https://github.com/karmalikesaxolotls/microrps/workflows/MakeCode/badge.svg)
 
