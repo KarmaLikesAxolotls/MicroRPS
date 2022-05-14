@@ -1,13 +1,13 @@
 input.onButtonPressed(Button.A, function () {
     if (choosingscreen == 0) {
-        ButtonPress += 1
+        ButtonPress += -1
         music.playTone(262, music.beat(BeatFraction.Whole))
     }
 })
 input.onButtonPressed(Button.AB, function () {
     choosingscreen = 1
     music.playTone(587, music.beat(BeatFraction.Whole))
-    basic.showString("3 2 1 GO")
+    basic.showString(" 3 2 1")
     machineChose = randint(0, 2)
     if (machineChose == 0) {
         basic.showLeds(`
@@ -70,7 +70,7 @@ input.onButtonPressed(Button.AB, function () {
 })
 input.onButtonPressed(Button.B, function () {
     if (choosingscreen == 0) {
-        ButtonPress += -1
+        ButtonPress += 1
         music.playTone(262, music.beat(BeatFraction.Whole))
     }
 })
